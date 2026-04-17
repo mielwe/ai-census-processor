@@ -1,0 +1,5 @@
+{
+  "name": "PDF Census to Excel Converter",
+  "description": "Extracts 'PAID DAYS' census data from PDF reports and converts them into structured Excel files.",
+  "requestFramePermissions": []
+}
